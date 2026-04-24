@@ -10,6 +10,8 @@ return {
 
   -- paste behaviours
   canonicalize_pasted_newlines = "CarriageReturn",
+  
+  scroll_to_bottom_on_input = false,
 
   hyperlink_rules = {
     -- Matches: a URL in parens: (URL)
